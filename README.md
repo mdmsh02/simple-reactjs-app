@@ -1,4 +1,4 @@
-# Simple React JS Project1
+# Simple React JS Project2
 
 ## What is the use of this Repo
 
